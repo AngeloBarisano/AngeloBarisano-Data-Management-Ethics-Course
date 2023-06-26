@@ -1,0 +1,12 @@
+Possible questions include:
+1. (to be answered later on; but using Lat lon to find clusters of crime in order to allocate stronger police presence to fight "crucibles" of crime
+2. The geographic allocation of crime by time of day if possible
+3. geographic allocation of crime by years --> do we see shifts in crime regarding seasons etc
+4. Police units and crime types; arrest prediction etc
+5. Do more arrests at a certain locatin lead to more crime or less crime? If less crime, then combine this with the units of police that do more arrests than other police units that do fewer.
+6 follow up to question 5: Does stricter policing actually cause there to be less crime? If yes: which units of the police do more arrests? if no: which units of police do fewer arrests? BUT! then we need to see over time: if there are specific units in the police that are arresting more people: WHERE do they do this? Do crime centers change? The overarching question is simply: Does hard policing change crime? What about the crime patterns in terms of the crimes perpetrated?
+7. What crimes are perpetrated where? Which type of crime can we actually stop with police presents? 
+
+
+IMPORTANT:
+- when conducting the EDA: describe your process; what you do and how you do it; add these things to the appendix; use Latex. 
